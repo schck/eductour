@@ -691,3 +691,7 @@ input::placeholder {
     margin-top: 20;
     font-weight: 500;
 }
+.bg-foot{
+  background-color: var(--yellow);
+  font-family: var(--md-font);
+}
