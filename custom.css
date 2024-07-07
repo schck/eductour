@@ -205,9 +205,16 @@
 .fo-day h4{
     font-family: var(--md-font);
 }
+.fo-day h6{
+  font-family: var(--md-font);
+  font-size: 1.1rem;
+  margin-top: 20px;
+}
 .fo-day p{
     font-family: var(--sm-font);
     font-size: 1rem;
+    
+
 }
 .s-card {
     width: 350px;
@@ -222,8 +229,8 @@
 
 
   .four-card {
-    width: 300px;
-    height: 424px;
+    width: 400px;
+    height: 624px;
     border-radius: 30px;
     background: white;
     box-shadow: 15px 15px 30px #ded182, -15px -15px 30px #ece8b4;
@@ -683,7 +690,4 @@ input::placeholder {
     font-family: var(--md-font);
     margin-top: 20;
     font-weight: 500;
-}
-.v-img{
-    margin-bottom: 20px;
 }
